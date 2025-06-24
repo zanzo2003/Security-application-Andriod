@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Banned App Detector</string>
+    <string name="accessibility_service_description">This service monitors app usage to detect and block banned apps.</string>
+    <string name="AppTheme">Theme.AppCompat.Light.DarkActionBar</string>
+</resources>
